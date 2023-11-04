@@ -6,7 +6,7 @@
 
 [Find and Delete Unused MediaItems.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Find%20and%20Delete%20Unused%20MediaItems.ps1) - Find and Delete the Unused Media items from Sitecore Media library
 
-[Lock a User.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Lock%20a%20User.ps1) - Lock a specific user to restict login to Sitecore backoffice.
+[Lock a User.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Lock%20a%20User.ps1) - Lock a specific user to restrict login to Sitecore backoffice.
 
 [Unlock User.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Unlock%20User.ps1) - Lock a specific user to allow login to Sitecore backoffice.
 
