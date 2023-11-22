@@ -15,4 +15,5 @@
 [Unlock the Items.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Unlock%20the%20Items.ps1) - Unlock the locked items.
 
 [Unpublished Items.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Unpublsihed%20Items.ps1) - List the items who are never published (or) unpublished to web database.
+
 [HasPersonalizationApplied.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/HasPersonalizationApplied.ps1) - Identify Sitecore item has personalization conditions enabled.
