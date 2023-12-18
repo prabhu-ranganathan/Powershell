@@ -17,3 +17,5 @@
 [Unpublished Items.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Unpublsihed%20Items.ps1) - List the items who are never published (or) unpublished to web database.
 
 [HasPersonalizationApplied.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/HasPersonalizationApplied.ps1) - Identify Sitecore item has personalization conditions enabled.
+
+[Pages with 0 PageViews.ps1](https://github.com/prabhu-ranganathan/Powershell/blob/main/scripts/Pages%20with%200%20PageViews.ps1) - Identify Sitecore Pages with 0 Page views through analytics.
